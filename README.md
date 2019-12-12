@@ -1,4 +1,4 @@
-# TesteBackEndDTI
+# Teste Back-End DTI
 Teste prático back end referente à 2ª etapa do processo seletivo da dti.
 Construido utilizando Node.js versão 12.13.1 LTS, com auxílio do framework Express.js
 
