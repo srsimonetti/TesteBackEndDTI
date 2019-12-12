@@ -1,2 +1,34 @@
 # TesteBackEndDTI
-Teste prático back end referente ao processo seletivo da empresa DTI
+Teste prático back end referente à 2ª etapa do processo seletivo da dti.
+Construido utilizando Node.js versão 12.13.1 LTS, com auxílio do framework Express.js
+
+## Instruções de Build
+### Windows
+. Requisitos:
+  - [Node.js versão 12.13.1 LTS ou superior](https://nodejs.org/en/)
+  - [Códigos disponibilizados](https://github.com/srsimonetti/TesteBackEndDTI.git)
+
+. Instruções:
+  - Abra cmd ou powershell
+  - Entre na pasta onde os arquivos foram baixados
+  - Digite 'npm run build'
+  
+### MacOS
+. Requisitos:
+  - [Node.js versão 12.13.1 LTS ou superior](https://nodejs.org/dist/v12.13.1/node-v12.13.1.pkg)
+  - [Códigos disponibilizados](https://github.com/srsimonetti/TesteBackEndDTI.git)
+   
+. Instruções:
+  - Abra o terminal
+  - Entre na pasta onde os arquivos foram baixados
+  - Digite 'npm run build'
+  
+### Ubuntu
+. Requisitos:
+  - Node.js versão 12.13.1 LTS ou superior [tutorial](https://www.hostinger.com.br/tutoriais/instalar-node-js-ubuntu/)
+  - [Códigos disponibilizados](https://github.com/srsimonetti/TesteBackEndDTI.git)
+   
+. Instruções:
+  - Abra o terminal
+  - Entre na pasta onde os arquivos foram baixados
+  - Digite 'npm run build'
