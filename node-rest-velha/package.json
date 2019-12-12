@@ -1,0 +1,24 @@
+{
+  "name": "rest-velha",
+  "version": "1.0.0",
+  "description": "Uma API REST construída em Node.js para avaliação de capacidades",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "node",
+    "velha",
+    "jogo"
+  ],
+  "author": "Samuel Simonetti",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
