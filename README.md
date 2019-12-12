@@ -36,4 +36,4 @@ API para Jogo da Velha multiplayer.
   - Digite 'npm run build'
 
 ## Observações
-. A porta utilizada é a 3000, porém, caso a variável de ambiente PORT esteja definida, ela será utilizada
+. A porta utilizada é a 3000, porém, caso a variável de ambiente PORT esteja definida ela será utilizada
